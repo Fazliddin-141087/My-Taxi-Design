@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071322183289",
+    "project_id": "mytaxi-66eb6",
+    "storage_bucket": "mytaxi-66eb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071322183289:android:1ff78d1918f830102b06a8",
+        "android_client_info": {
+          "package_name": "uz.mobiler.mydrawelayout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071322183289-620901ou1dqjec80hfk34ih2jvr1mrlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpKT33oi88Py77YAOWoc0S4xrAHhulnzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071322183289-620901ou1dqjec80hfk34ih2jvr1mrlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
